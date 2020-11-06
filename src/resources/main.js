@@ -144,7 +144,7 @@ __webpack_require__.r(__webpack_exports__);
 // http://localhost:8080/, https://brainsco-app.herokuapp.com
 const environment = {
     production: false,
-    serverLocation: 'https://brainsco.herokuapp.com/',
+    serverLocation: 'https://cineblack.herokuapp.com/',
     secret: 'mgmY14dYnV4c!'
 };
 /*
